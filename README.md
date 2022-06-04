@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://img.shields.io/reddit/user-karma/combined/Secret0Key?style=social)
+
 <!--
 **04Orpheus/04Orpheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
