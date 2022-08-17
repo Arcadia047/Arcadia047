@@ -1,15 +1,17 @@
 ## Welcome to my space 👋
 
-**Arcadia**: *noun, often capitalized*<br>
-a region or scene of simple pleasure and quiet
+>**Arcadia**: *noun, often capitalized*<br>
+>a region or scene of simple pleasure and quiet
 
 #### Languages in my toolbox:
-<img src="https://github.com/Arcadia047/Arcadia047/blob/main/languageicons/Python-logo-notext.svg" width="15"/> Python  
-<img src="https://github.com/Arcadia047/Arcadia047/blob/main/languageicons/java-icon.svg" width="15"/> Java  
-<img src="https://github.com/Arcadia047/Arcadia047/blob/main/languageicons/ISO_C%2B%2B_Logo.svg" width="15"/> C++  
+<pre>
+<img src="https://github.com/Arcadia047/Arcadia047/blob/main/languageicons/Python-logo-notext.svg" width="12"/> Python  <img src="https://github.com/Arcadia047/Arcadia047/blob/main/languageicons/java-icon.svg" width="12"/> Java  <img src="https://github.com/Arcadia047/Arcadia047/blob/main/languageicons/ISO_C%2B%2B_Logo.svg" width="12"/> C++
+</pre>
 
 #### Languages I plan to learn:
-<img src="https://github.com/Arcadia047/Arcadia047/blob/main/languageicons/Rust_programming_language_black_logo.svg" width="15"/> Rust
+<pre>
+<img src="https://github.com/Arcadia047/Arcadia047/blob/main/languageicons/Rust_programming_language_black_logo.svg" width="12"/> Rust
+</pre>
 
 
 
