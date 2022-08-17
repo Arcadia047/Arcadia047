@@ -1,6 +1,6 @@
 ### Welcome to my bunker 👋
 
-https://img.shields.io/badge/<Python>-<>-<blue>
+https://img.shields.io/badge/<Python>-<Familiar>-<blue>
 
 <!--
 **04Orpheus/04Orpheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
