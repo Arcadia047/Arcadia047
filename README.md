@@ -1,4 +1,4 @@
-## Welcome to my bunker 👋
+## Welcome to my space 👋
 
 **Arcadia**: *noun, often capitalized*<br>
 a region or scene of simple pleasure and quiet
