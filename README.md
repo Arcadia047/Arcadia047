@@ -1,6 +1,23 @@
-### Welcome to my bunker 👋
+## Welcome to my bunker 👋
 
-https://img.shields.io/badge/<Python>-<Familiar>-<blue>
+**Arcadia**: *noun, often capitalized*<br>
+a region or scene of simple pleasure and quiet
+
+### Languages in my toolbox:
+<img src="https://github.com/Arcadia047/Arcadia047/blob/main/languageicons/python.svg" width="25"/> Python
+<img src="https://github.com/Arcadia047/Arcadia047/blob/main/languageicons/java-icon.svg" width="25"/> Java
+<img src="https://github.com/Arcadia047/Arcadia047/blob/main/languageicons/ISO_C%2B%2B_Logo.svg" width="25"/> C++
+
+### Languages I plan to learn
+<img src="https://github.com/Arcadia047/Arcadia047/blob/main/languageicons/Rust_programming_language_black_logo.svg" width="25"/> Rust
+
+
+
+
+
+
+
+
 
 <!--
 **04Orpheus/04Orpheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
