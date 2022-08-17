@@ -4,12 +4,12 @@
 a region or scene of simple pleasure and quiet
 
 #### Languages in my toolbox:
-<img src="https://github.com/Arcadia047/Arcadia047/blob/main/languageicons/Python-logo-notext.svg" width="25"/> Python  
-<img src="https://github.com/Arcadia047/Arcadia047/blob/main/languageicons/java-icon.svg" width="25"/> Java  
-<img src="https://github.com/Arcadia047/Arcadia047/blob/main/languageicons/ISO_C%2B%2B_Logo.svg" width="25"/> C++  
+<img src="https://github.com/Arcadia047/Arcadia047/blob/main/languageicons/Python-logo-notext.svg" width="15"/> Python  
+<img src="https://github.com/Arcadia047/Arcadia047/blob/main/languageicons/java-icon.svg" width="15"/> Java  
+<img src="https://github.com/Arcadia047/Arcadia047/blob/main/languageicons/ISO_C%2B%2B_Logo.svg" width="15"/> C++  
 
 #### Languages I plan to learn:
-<img src="https://github.com/Arcadia047/Arcadia047/blob/main/languageicons/Rust_programming_language_black_logo.svg" width="25"/> Rust
+<img src="https://github.com/Arcadia047/Arcadia047/blob/main/languageicons/Rust_programming_language_black_logo.svg" width="15"/> Rust
 
 
 
