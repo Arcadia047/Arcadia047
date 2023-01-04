@@ -5,7 +5,9 @@
 
 #### Languages in my toolbox:
 <pre>
-<img src="https://github.com/Arcadia047/Arcadia047/blob/main/languageicons/Python-logo-notext.svg" width="12"/> Python  <img src="https://github.com/Arcadia047/Arcadia047/blob/main/languageicons/java-icon.svg" width="12"/> Java  <img src="https://github.com/Arcadia047/Arcadia047/blob/main/languageicons/ISO_C%2B%2B_Logo.svg" width="12"/> C++
+<img src="https://github.com/Arcadia047/Arcadia047/blob/main/languageicons/Python-logo-notext.svg" width="12"/> Python  <img src="https://github.com/Arcadia047/Arcadia047/blob/main/languageicons/java-icon.svg" width="12"/> Java  <img src="https://github.com/Arcadia047/Arcadia047/blob/main/languageicons/ISO_C%2B%2B_Logo.svg" width="12"/> C++ <img 
+src="https://github.com/Arcadia047/Arcadia047/blob/main/languageicons/Unofficial_JavaScript_logo_2.svg" width="12"/> JavaScript <img 
+src="https://github.com/Arcadia047/Arcadia047/blob/main/languageicons/Typescript_logo_2020.svg" width="12"/> TypeScript
 </pre>
 
 #### Languages I plan to learn:
